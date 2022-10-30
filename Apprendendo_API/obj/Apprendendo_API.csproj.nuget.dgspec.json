@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API.csproj": {}
+    "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API\\Apprendendo_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API.csproj": {
+    "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API\\Apprendendo_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API\\Apprendendo_API.csproj",
         "projectName": "Apprendendo_API",
-        "projectPath": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API.csproj",
+        "projectPath": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API\\Apprendendo_API.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\obj\\",
+        "outputPath": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

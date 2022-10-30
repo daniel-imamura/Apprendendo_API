@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gxh6bDARcuX1NSL9Tap1T0EQseUCCmXWxUeJZTs3MdK4dZvVv7HOSD94PBsP+bDFeAzQiXwImfoDSed+tXhWg==",
+  "dgSpecHash": "ZwmZ8GA+anxtPb91t1XwT8JjSkxBfiWka4wikTsBr5Hau/Ab/Bsn+ovviiFollG9UIIyHjp2FUPusT0KZkwPiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API.csproj",
+  "projectFilePath": "C:\\Users\\danie\\dotnet\\Apprendendo_API\\Apprendendo_API\\Apprendendo_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

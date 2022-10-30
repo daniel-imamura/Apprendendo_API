@@ -22,7 +22,7 @@ namespace Apprendendo_API.Controllers
         {
             return _context.Cliente.ToList();
         }
-        [HttpGet]
+        [HttpGet("{ClienteId}")]                
         public ActionResult<List<Cliente>> Get(int ClienteId)
         {
             try
@@ -56,7 +56,7 @@ namespace Apprendendo_API.Controllers
             {
                 return this.StatusCode(StatusCodes.Status500InternalServerError, "Falha no acesso ao banco de dados.");
             }
-
+            
             // retorna BadRequest se não conseguiu incluir
             return BadRequest();
         }
