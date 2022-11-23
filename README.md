@@ -12,7 +12,7 @@ API criada para o projeto de TCC utilizando ASP.NET
 <i> 1. Link para o XAMPP: </i> https://www.apachefriends.org/pt_br/download.html <br>
 <i> 2. Criar banco de dados: </i>      <br>
 <p> CREATE TABLE `cliente` (           <br>
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int(11) NOT NULL AUTO_INCREMENT,<br>
   `username` varchar(50) NOT NULL,     <br>   
   `senha` int(11) NOT NULL,            <br>
   PRIMARY KEY (`id`)                   <br>
