@@ -7,7 +7,7 @@ API criada para o projeto de TCC utilizando ASP.NET
 * Link para download do .NET: https://dotnet.microsoft.com/en-us/download
 * Comando para adicionar package do MySQL: dotnet add package MySql.EntityFrameworkCore
 
-Para MySQL:
+### Para MySQL:
 
 <i> 1. Instalar o XAMPP</i><br>
 <i> 2. Criar banco de dados</i>
