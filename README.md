@@ -10,12 +10,12 @@ API criada para o projeto de TCC utilizando ASP.NET
 ### Para MySQL:
 
 <i> 1. Link para o XAMPP: </i> https://www.apachefriends.org/pt_br/download.html <br>
-<i> 2. Criar banco de dados: </i> 
-CREATE TABLE `cliente` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `username` varchar(50) NOT NULL,
-  `senha` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4
+<i> 2. Criar banco de dados: </i>      <br>
+CREATE TABLE `cliente` (               <br>
+  `id` int(11) NOT NULL AUTO_INCREMENT,<br>
+  `username` varchar(50) NOT NULL,     <br>   
+  `senha` int(11) NOT NULL,            <br>
+  PRIMARY KEY (`id`)                   <br>
+) 
 
 
