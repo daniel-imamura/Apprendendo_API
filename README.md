@@ -18,5 +18,6 @@ API criada para o projeto de TCC utilizando ASP.NET
   &emsp;`senha` int(11) NOT NULL,            <br>
   &emsp;PRIMARY KEY (`id`)                   <br>
 ) </p> <br>
-<i> 4. Vá no arquivo Apprendendo_API/Program.cs e altere </i>
+<i> 4. Vá no arquivo Apprendendo_API/Program.cs e altere a linha 12, colocando database com o nome do seu banco de dado e o seu nome de usuário no user</i>
+
 
