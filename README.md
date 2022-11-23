@@ -18,4 +18,10 @@ API criada para o projeto de TCC utilizando ASP.NET
   &emsp;`senha` int(11) NOT NULL,            <br>
   &emsp;PRIMARY KEY (`id`)                   <br>
 ) </p> 
+<p> CREATE TABLE `guia` (                       <br>
+  &emsp;`id` int(11) NOT NULL AUTO_INCREMENT,   <br>
+  &emsp;`nomeApp` varchar(50) NOT NULL,         <br>
+  &emsp;`link` text DEFAULT NULL,               <br>
+  &emsp;PRIMARY KEY (`id`)                      <br>
+) </p>
 <i> 4. Vá no arquivo Apprendendo_API/Program.cs e altere a linha 12, colocando o nome de seu banco de dados e usuário no database e user
