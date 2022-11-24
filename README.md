@@ -27,6 +27,9 @@ API criada para o projeto de TCC utilizando ASP.NET
 ) </p>
 <i> 5. Vá no arquivo Apprendendo_API/Program.cs e altere a linha 12, colocando o nome de seu banco de dados e usuário no database e user </i>
 
-## _Para rodar a aplicação:_
+## Para rodar a aplicação:
 
+* Iniciar o Apache e o MySQL no XAMPP 
 * Rodar comando <b>dotnet run</b>
+* Link para baixar Postman: https://www.postman.com/downloads/
+* Agora você pode testar os métodos de requisição e ver os resultados no Postman!
