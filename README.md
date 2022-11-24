@@ -25,8 +25,8 @@ API criada para o projeto de TCC utilizando ASP.NET
   &emsp;`link` text DEFAULT NULL,               <br>
   &emsp;PRIMARY KEY (`id`)                      <br>
 ) </p>
-<i> 5. _Vá no arquivo Apprendendo_API/Program.cs e altere a linha 12, colocando o nome de seu banco de dados e usuário no database e user_</i>
+<i> 5. Vá no arquivo Apprendendo_API/Program.cs e altere a linha 12, colocando o nome de seu banco de dados e usuário no database e user </i>
 
-## Para rodar a aplicação:
+## _Para rodar a aplicação:_
 
-* Rodar comando _dotnet run_
+* Rodar comando <b>dotnet run</b>
