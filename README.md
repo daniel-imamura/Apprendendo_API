@@ -2,7 +2,7 @@
 
 API criada para o projeto de TCC utilizando ASP.NET
 
-## Recursos necessários para o uso da API:
+### Recursos necessários para o uso da API:
 
 * Link para download do .NET: https://dotnet.microsoft.com/en-us/download
 
