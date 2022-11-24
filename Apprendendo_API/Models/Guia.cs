@@ -12,7 +12,7 @@ namespace Apprendendo_API.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Este campo é obrigatório")]
-        [MaxLength(30, ErrorMessage = "Este campo deve conter no máximo 30 caracteres")]
+        [MaxLength(50, ErrorMessage = "Este campo deve conter no máximo 30 caracteres")]
         public string NomeApp { get; set; }
 
         [Required(ErrorMessage = "Este campo é obrigatório")]
